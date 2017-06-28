@@ -26,7 +26,8 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 ## Demand-Side Platform (DSP) Techniques
 
 ### CTR/CVR Estimation
-* [SEM: A Softmax-based Ensemble Model for CTR Estimation in Real-Time Bidding Advertising](http://wnzhang.net/share/rtb-papers/softmax-ensemble.pdf) by Wen-Yuan Zhu et al. BigComp 2017 2017.
+* [Learning Piece-wise Linear Models from Large Scale Data for Ad Click Prediction](https://arxiv.org/pdf/1704.05194.pdf)  by Kun Gai, Xiaoqiang Zhu, Han Li, et al. Arxiv 2017.
+* [SEM: A Softmax-based Ensemble Model for CTR Estimation in Real-Time Bidding Advertising](http://wnzhang.net/share/rtb-papers/softmax-ensemble.pdf) by Wen-Yuan Zhu et al. BigComp 2017.
 * [Neural Feature Embedding for User Response Prediction in Real-Time Bidding (RTB)](https://arxiv.org/pdf/1702.00855v1.pdf) by Enno Shioji, Masayuki Arai. ArXiv 2017.
 * [Field-aware Factorization Machines in a Real-world Online Advertising System](https://arxiv.org/pdf/1701.04099.pdf) by Yuchin Juan, Damien Lefortier, Olivier Chapelle. ArXiv 2017.
 * [Sparse Factorization Machines for Click-through Rate Prediction](http://staff.ustc.edu.cn/~cheneh/paper_pdf/2016/Zhen-Pan-ICDM.pdf) by Zhen Pan et al. ICDM 2016.
@@ -56,6 +57,9 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Functional Bid Landscape Forecasting for Display Advertising](http://apex.sjtu.edu.cn/public/files/members/20160929/functional-bid-lands.pdf) by Yuchen Wang et al. ECML-PKDD 2016.
 
 ### Bidding Strategies
+* [Profit Maximization for Online Advertising Demand-Side Platforms](https://arxiv.org/pdf/1706.01614.pdf) by Paul Grigas et al. ArXiv 2017.
+* [Real-Time Bidding by Reinforcement Learning in Display Advertising](http://wnzhang.net/papers/rlb.pdf) by Han Cai et al. WSDM 2017.
+* [Managing Risk of Bidding in Display Advertising](http://wnzhang.net/papers/risk-bid.pdf) by Haifeng Zhang et al. WSDM 2017.
 * [Optimized Cost per Click in Taobao Display Advertising](https://arxiv.org/pdf/1703.02091.pdf) by Han Zhu et al. ArXiv 2017.
 * [Combining Powers of Two Predictors in Optimizing Real-Time Bidding Strategy under Constrained Budget](http://wnzhang.net/share/rtb-papers/two-pred-bid.pdf) by Chi-Chun Lin et al. CIKM 2016.
 * [Joint Optimization of Multiple Performance Metrics in Online Video Advertising](http://www.kdd.org/kdd2016/papers/files/adp0722-geyikA.pdf) by Sahin Cem Geyik et al. KDD 2016.
@@ -73,8 +77,8 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Real-Time Bidding Algorithms for Performance-Based Display Ad Allocation](http://wnzhang.net/share/rtb-papers/rtb-perf-bid.pdf) by Ye Chen et al. KDD 2011.
 
 ### Budget Pacing & Frequency/Recency Capping
-* [Exploring Optimal Frequency Caps in Real Time Bidding Advertising] (https://www.researchgate.net/publication/309588181_Exploring_Optimal_Frequency_Caps_in_Real_Time_Bidding_Advertising) by Rui Qin et al. SocialCom 2016.
-* [Research on the Frequency Capping Issue in RTB Advertising：A Computational Experiment Approach] (https://www.researchgate.net/publication/304294525_Research_on_the_frequency_capping_issue_in_RTB_advertising_A_computational_experiment_approach) by Rui Qin et al. CAC 2015.
+* [Exploring Optimal Frequency Caps in Real Time Bidding Advertising](https://www.researchgate.net/publication/309588181_Exploring_Optimal_Frequency_Caps_in_Real_Time_Bidding_Advertising) by Rui Qin et al. SocialCom 2016.
+* [Research on the Frequency Capping Issue in RTB Advertising：A Computational Experiment Approach](https://www.researchgate.net/publication/304294525_Research_on_the_frequency_capping_issue_in_RTB_advertising_A_computational_experiment_approach) by Rui Qin et al. CAC 2015.
 * [From 0.5 Million to 2.5 Million: Efficiently Scaling up Real-Time Bidding](http://wnzhang.net/share/rtb-papers/turn-throatling.pdf) by Jianqian Shen et al. ICDM 2015.
 * [Smart Pacing for Effective Online Ad Campaign Optimization](http://wnzhang.net/share/rtb-papers/throatling-pacing.pdf) by Jian Xu et al. KDD 2015.
 * [An analytical solution to the budget-pacing problem in programmatic advertising](https://www.researchgate.net/publication/283579658_An_analytical_solution_to_the_budget-pacing_problem_in_programmatic_advertising) by Joaquin Fernandez-Tapia. Working paper.
@@ -82,6 +86,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Real Time Bid Optimization with Smooth Budget Delivery in Online Advertising](http://wnzhang.net/share/rtb-papers/budget-smooth.pdf) by Kuang-Chih Lee, Ali Jalali, Ali Dasdan. ADKDD 2013.
 * [Budget Pacing for Targeted Online Advertisements at LinkedIn](http://wnzhang.net/share/rtb-papers/linkedin-pacing.pdf) by Deepak Agarwal et al. KDD 2014.
 * [Frequency Capping in Online Advertising](http://theory.epfl.ch/moranfe/Publications/WADS2011.pdf) by Niv Buchbinder et al. WADS 2011.
+* [Adaptive bidding for display advertising](http://www.arpitaghosh.com/papers/fp632-ghosh.pdf ) by Ghosh, A., Rubinstein, B. I, Vassilvitskii, S., and Zinkevich, M.  2009
 
 ### Fraud Detection
 * [Using Co-Visitation Networks For Classifying Non-Intentional Traffic](http://wnzhang.net/share/rtb-papers/co-visit-fraud.pdf) by Ori Stitelman et al. Dstillery 2013.
@@ -131,6 +136,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Finding Needle in a Million Metrics: Anomaly Detection in a Large-scale Computational Advertising Platform](http://arxiv.org/pdf/1602.07057.pdf) by Bowen Zhou, Shahriar Shariat. TargetAd 2016.
 
 ## Datasets and Benchmarking
+* [YOYI RTB datasets (with bidding information)](http://goo.gl/9r8DtM) by Kan Ren and Yifei Rong et al. CIKM 2016.
 * [iPinYou Global RTB Bidding Algorithm Competition Dataset](http://wnzhang.net/share/rtb-papers/ipinyou-dataset.pdf) by Hairen Liao et al. ADKDD 2014.
 * [Real-Time Bidding Benchmarking with iPinYou Dataset](http://arxiv.org/abs/1407.7073) by Weinan Zhang et al. ArXiv 2014.
 * [Criteo Dataset for Product Recommendation / Counterfactual Learning](http://www.cs.cornell.edu/~adith/Criteo/NIPS16_Benchmark.pdf) by Damien Lefortier et al. What If workshop NIPS 2016.
