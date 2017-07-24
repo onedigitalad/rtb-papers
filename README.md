@@ -33,6 +33,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Sparse Factorization Machines for Click-through Rate Prediction](http://staff.ustc.edu.cn/~cheneh/paper_pdf/2016/Zhen-Pan-ICDM.pdf) by Zhen Pan et al. ICDM 2016.
 * [Deep CTR Prediction in Display Advertising](http://wnzhang.net/share/rtb-papers/deep-ctr-display.pdf) by Junxuan Chen et al. MM 2016.
 * [Bid-aware Gradient Descent for Unbiased Learning with Censored Data in Display Advertising](http://wnzhang.net/papers/unbias-kdd.pdf) by Weinan Zhang, Tianxiong Zhou, Jun Wang, Jian Xu. KDD 2016.
+* [Large Scale CVR Prediction through Dynamic Transfer Learning of Global and Local Features](http://proceedings.mlr.press/v53/yang16.pdf) by Hongxia Yang et al. BIGMINE 2016.
 * [Predicting ad click-through rates via feature-based fully coupled interaction tensor factorization](http://wnzhang.net/share/rtb-papers/fctf.pdf) by Lili Shan, Lei Lin, Chengjie Sun, Xiaolong Wang. Electronic Commerce Research and Applications 2016.
 * [Simple and Scalable Response Prediction for Display Advertising](http://wnzhang.net/share/rtb-papers/ctr-chapelle.pdf) by Olivier Chapelle	Criteo, Eren Manavoglu, Romer Rosales. ACM TIST 2014.
 * [Cost-sensitive Learning for Utility Optimization in Online Advertising Auctions](https://arxiv.org/pdf/1603.03713.pdf) by Flavian Vasile, Damien Lefortier, Olivier Chapelle. Extension under-review of the paper presented at the Workshop on E-Commerce, NIPS 2015.
@@ -99,6 +100,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Analyzing the Segmentation Granularity of RTB Advertising Markets：A Computational Experiment Approach](https://www.researchgate.net/publication/300238564_Analyzing_the_Segmentation_Granularity_of_RTB_Advertising_Markets_A_Computational_Experiment_Approach) by Rui Qin et al. SMP 2015.
 
 ## Supply-Side Platform (SSP) Techniques
+* [Learning Algorithms for Second-Price Auctions with Reserve](http://jmlr.org/papers/volume17/14-499/14-499.pdf) by Mehryar Mohri and Andres Munoz Medina. JMLR 2016.
 * [Optimal Reserve Prices in Upstream Auctions: Empirical Application on Online Video Advertising](http://www.kdd.org/kdd2016/papers/files/rpp1142-alcobendas-lisbonaA.pdf) by Miguel Angel Alcobendas, Sheide Chammas and Kuang-chih Lee. KDD 2016.
 * [Optimal Allocation of Ad Inventory in Real-Time Bidding Advertising Markets](https://www.researchgate.net/publication/312173826_Optimal_Allocation_of_Ad_Inventory_in_Real-Time_Bidding_Advertising_Markets) by Juanjuan Li et al. SMC 2016.
 * [A Dynamic Pricing Model for Unifying Programmatic Guarantee and Real-Time Bidding in Display Advertising](http://arxiv.org/pdf/1405.5189.pdf) by Bowei Chen, Shuai Yuan and Jun Wang. ADKDD 2014.
