@@ -30,6 +30,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [SEM: A Softmax-based Ensemble Model for CTR Estimation in Real-Time Bidding Advertising](http://wnzhang.net/share/rtb-papers/softmax-ensemble.pdf) by Wen-Yuan Zhu et al. BigComp 2017.
 * [Neural Feature Embedding for User Response Prediction in Real-Time Bidding (RTB)](https://arxiv.org/pdf/1702.00855v1.pdf) by Enno Shioji, Masayuki Arai. ArXiv 2017.
 * [Field-aware Factorization Machines in a Real-world Online Advertising System](https://arxiv.org/pdf/1701.04099.pdf) by Yuchin Juan, Damien Lefortier, Olivier Chapelle. ArXiv 2017.
+* [Product-based Neural Networks for User Response Prediction](https://arxiv.org/pdf/1611.00144.pdf) by Yanru Qu et al. ICDM 2016.
 * [Sparse Factorization Machines for Click-through Rate Prediction](http://staff.ustc.edu.cn/~cheneh/paper_pdf/2016/Zhen-Pan-ICDM.pdf) by Zhen Pan et al. ICDM 2016.
 * [Deep CTR Prediction in Display Advertising](http://wnzhang.net/share/rtb-papers/deep-ctr-display.pdf) by Junxuan Chen et al. MM 2016.
 * [Bid-aware Gradient Descent for Unbiased Learning with Censored Data in Display Advertising](http://wnzhang.net/papers/unbias-kdd.pdf) by Weinan Zhang, Tianxiong Zhou, Jun Wang, Jian Xu. KDD 2016.
@@ -90,6 +91,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Adaptive bidding for display advertising](http://www.arpitaghosh.com/papers/fp632-ghosh.pdf ) by Ghosh, A., Rubinstein, B. I, Vassilvitskii, S., and Zinkevich, M.  2009
 
 ### Fraud Detection
+* [Independent Auditing of Online Display Advertising Campaigns](http://www.it.uc3m.es/~rcuevas/papers/p120-callejo.pdf) by 	Patricia Callejo et al. HotNets 2016.
 * [Using Co-Visitation Networks For Classifying Non-Intentional Traffic](http://wnzhang.net/share/rtb-papers/co-visit-fraud.pdf) by Ori Stitelman et al. Dstillery 2013.
 * [Impression Fraud in On-line Advertising via Pay-Per-View Networks](http://0b4af6cdc2f0c5998459-c0245c5c937c5dedcca3f1764ecc9b2f.r43.cf2.rackcdn.com/12305-sec13-paper_springborn.pdf) by Kevin Springborn, Paul Barford. USENIX Security Symposium 2013.
 * [Understanding Fraudulent Activities in Online Ad Exchanges](http://conferences.sigcomm.org/imc/2011/docs/p279.pdf) by Brett Stone-Grosset et al. IMC 2011.
